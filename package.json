@@ -1,0 +1,11 @@
+{
+  "name": "test-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-unit.mjs"
+  },
+  "author": "jiko21",
+  "license": "MIT"
+}
